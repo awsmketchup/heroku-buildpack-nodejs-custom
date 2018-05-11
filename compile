@@ -1,0 +1,2 @@
+cd $app_dir
+npm run build
